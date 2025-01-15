@@ -22,33 +22,13 @@ This project leverages data science and AI techniques to analyze and generate in
   - `matplotlib`, `seaborn`: Data visualization
   - `transformers`: NLP models for text summarization
 
-## **Installation Instructions**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Tobacco_Usage_Insights_Project.git
-   ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd Tobacco_Usage_Insights_Project
-   ```
 
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## **How to Run**
-1. Ensure the dataset is available in the project directory.
-2. Run the Python script:
-   ```bash
-   python gyts_ai_project.py
-   ```
-3. View generated insights and visualizations.
+Generated insights and visualizations.
 
 ## **Sample Outputs**
 ### **Visualization:**
-- Bar chart of the top 10 states with the highest tobacco usage.
+- Bar chart of the top  states with the highest tobacco usage.
 
 ### **Generated Insight:**
 - "In State X, 35% have ever used tobacco, and 22% are current users."
