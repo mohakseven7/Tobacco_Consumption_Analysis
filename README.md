@@ -1,1 +1,58 @@
 # Tobacco_Consumption_Analysis
+
+# AI-Powered Insights & Analysis on Youth Tobacco Survey Data
+
+## **Project Overview**
+This project leverages data science and AI techniques to analyze and generate insights from the Global Youth Tobacco Survey (GYTS-4) dataset. Using data visualization and NLP-based models, it provides valuable observations about tobacco usage among youth in different states of India.
+
+## **Key Features**
+1. **Data Cleaning:**
+   - Handling missing data to maintain analysis integrity.
+
+2. **Data Visualization:**
+   - Visualization of the top states with the highest percentage of current tobacco users.
+
+3. **NLP-Based Insights:**
+   - Generating concise textual insights for each state using a text summarization model.
+
+## **Technologies Used**
+- **Programming Language:** Python  
+- **Libraries:**
+  - `pandas`: Data manipulation and analysis
+  - `matplotlib`, `seaborn`: Data visualization
+  - `transformers`: NLP models for text summarization
+
+## **Installation Instructions**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Tobacco_Usage_Insights_Project.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Tobacco_Usage_Insights_Project
+   ```
+
+3. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## **How to Run**
+1. Ensure the dataset is available in the project directory.
+2. Run the Python script:
+   ```bash
+   python gyts_ai_project.py
+   ```
+3. View generated insights and visualizations.
+
+## **Sample Outputs**
+### **Visualization:**
+- Bar chart of the top 10 states with the highest tobacco usage.
+
+### **Generated Insight:**
+- "In State X, 35% have ever used tobacco, and 22% are current users."
+
+## **Project Insights**
+- Highlighted states requiring stronger anti-tobacco interventions.
+- Automated insight generation to assist public health policymakers.
