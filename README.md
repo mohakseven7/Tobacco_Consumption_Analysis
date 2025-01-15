@@ -1,6 +1,6 @@
 # Tobacco_Consumption_Analysis
 
-# AI-Powered Insights & Analysis on Youth Tobacco Survey Data
+#  Insights & Analysis on Youth Tobacco Survey Data
 
 ## **Project Overview**
 This project leverages data science and AI techniques to analyze and generate insights from the Global Youth Tobacco Survey (GYTS-4) dataset. Using data visualization and NLP-based models, it provides valuable observations about tobacco usage among youth in different states of India.
